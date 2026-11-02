@@ -1,0 +1,11 @@
+Patient: Bilbo Baggins
+Date of Birth: 2890-09-22
+Medical Record Number (MRN): 123456
+Allergies: None
+Medications: Herbal tea as needed for relaxation
+Reason for Visit: Routine check-up before his next adventure.
+Blood Pressure: 118/76
+Heart Rate: 68 bpm
+Temperature: 98.4°F
+Assessment: Bilbo is in excellent health for a hobbit.
+Plan: Maintain a balanced diet, take regular walks, and minimize exposure to dragons.
